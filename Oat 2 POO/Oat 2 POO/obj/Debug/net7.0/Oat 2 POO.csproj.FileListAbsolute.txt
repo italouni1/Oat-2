@@ -1,0 +1,15 @@
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/bin/Debug/net7.0/Oat 2 POO
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/bin/Debug/net7.0/Oat 2 POO.deps.json
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/bin/Debug/net7.0/Oat 2 POO.runtimeconfig.json
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/bin/Debug/net7.0/Oat 2 POO.dll
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/bin/Debug/net7.0/Oat 2 POO.pdb
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.csproj.AssemblyReference.cache
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.AssemblyInfoInputs.cache
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.AssemblyInfo.cs
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.csproj.CoreCompileInputs.cache
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.dll
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/refint/Oat 2 POO.dll
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.pdb
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/Oat 2 POO.genruntimeconfig.cache
+/Users/italoruanbatistacosta/Projects/Oat 2 POO/Oat 2 POO/obj/Debug/net7.0/ref/Oat 2 POO.dll
